@@ -1,4 +1,4 @@
 - 👋 Hi, I’m AziQr
 - 👀 I’m interested in IT
-- 💞️ My pages: SOON
-- 📫 My discord: https://discord.com/invite/Z7EezuXdUG
+- 💞️ My pages: https://aziqr.xyz
+- 📫 My discord: https://dc.aziqr.xyz
