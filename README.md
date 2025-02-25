@@ -1,4 +1,4 @@
-<h4 align="left">🔧 I’m currently working on WaveHost.eu<br>🏠 I run a homelab for self-hosting and testing new tech<br>🐧 Passionate about Linux, open-source, and automation</h4>
+<h2 align="left">🔧 I’m currently working on WaveHost.eu<br>🏠 I run a homelab for self-hosting and testing new tech<br>🐧 Passionate about Linux, open-source, and automation</h4>
 
 ###
 
