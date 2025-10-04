@@ -1,7 +1,7 @@
 <h2 align="left">🔧 I’m currently working on WaveHost.eu<br>🏠 I run a homelab for self-hosting and testing new tech<br>🐧 Passionate about Linux, open-source, and automation</h4>
 
 ###
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
+<div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
